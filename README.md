@@ -39,7 +39,7 @@ This repository contains simulation notebooks based on the **Non-Equilibrium Gre
 
 - Simulations are inspired by lectures and code examples from *"Atom to Transistor"* by Prof. Supriyo Datta.
 - Assumes low-temperature regime: `kT ≈ 0.01 × t₀` for sharp transmission features.
-- This is an ongoing project — files will be progressively documented, optimized, and expanded.
+- This is an ongoing project - files will be progressively documented, optimized, and expanded.
 
 ---
 
