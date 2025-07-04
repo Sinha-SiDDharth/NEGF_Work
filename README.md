@@ -4,7 +4,7 @@ This repository contains simulation notebooks based on the **Non-Equilibrium Gre
 
 ---
 
-## 📁 Notebooks
+## Notebooks
 
 | No. | File | Description |
 |-----|------|-------------|
@@ -17,7 +17,7 @@ This repository contains simulation notebooks based on the **Non-Equilibrium Gre
 
 ---
 
-## ⚙️ Methods
+## Methods
 
 - **NEGF formalism** (retarded Green's function, self-energies, transmission)
 - Coherent transport assumption (low temperature, ballistic regime)
@@ -26,7 +26,7 @@ This repository contains simulation notebooks based on the **Non-Equilibrium Gre
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Python 3.11
 - Jupyter Notebooks
@@ -35,7 +35,7 @@ This repository contains simulation notebooks based on the **Non-Equilibrium Gre
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Simulations are inspired by lectures and code examples from *"Atom to Transistor"* by Prof. Supriyo Datta.
 - Assumes low-temperature regime: `kT ≈ 0.01 × t₀` for sharp transmission features.
@@ -43,7 +43,7 @@ This repository contains simulation notebooks based on the **Non-Equilibrium Gre
 
 ---
 
-## 📬 Contact
+## Contact
 
 > Siddharth Sinha  
 > B.Tech Engineering Physics  
